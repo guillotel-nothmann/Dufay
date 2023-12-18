@@ -583,7 +583,9 @@
                               <note xml:id="nzsa18r" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="down" />
                            </beam>
                            <note xml:id="nb9q4p4" dur.ppq="8" dur="4" oct="4" pname="c" stem.dir="down" />
-                           <note xml:id="ngs63tq" dur.ppq="4" dur="8" oct="3" pname="b" stem.dir="down" accid.ges="f" />
+                           <note xml:id="ngs63tq" dur.ppq="4" dur="8" oct="3" pname="b" stem.dir="down" >
+                              <accid accid="n" func="edit"/>
+                           </note>
                         </layer>
                      </staff>
                      <staff xml:id="s1lchv5u" n="2">
@@ -653,7 +655,8 @@
                               <note xml:id="n24z1z" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="down" />
                            </beam>
                            <note xml:id="n1wlm9n3" dur.ppq="8" dur="4" oct="4" pname="c" stem.dir="down" />
-                           <note xml:id="nr27inn" dur.ppq="4" dur="8" oct="3" pname="b" stem.dir="down" accid.ges="f" />
+                           <note xml:id="nr27inn" dur.ppq="4" dur="8" oct="3" pname="b" stem.dir="down">
+                            <accid accid="n" func="edit"/></note>
                         </layer>
                      </staff>
                      <staff xml:id="s16qf0qa" n="3">
