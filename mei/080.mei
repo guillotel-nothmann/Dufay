@@ -672,6 +672,8 @@
                            </beam>
                            <note xml:id="n1c263vx" dur.ppq="12" dur="4" oct="4" pname="g" stem.dir="up" />
                            <note xml:id="n1cj32pj" dur.ppq="6" dur="8" oct="4" pname="f" stem.dir="up" />
+                              <note xml:id="n46o7lz" dur.ppq="3" dur="32" oct="4" pname="f" stem.dir="up"><accid accid="s" func="edit"/></note>
+ 
                         </layer>
                      </staff>
                      <staff xml:id="s1n32gq0" n="2">
