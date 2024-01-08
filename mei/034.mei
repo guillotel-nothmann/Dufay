@@ -135,7 +135,7 @@
                            <note xml:id="nl37qj" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="down" />
                         </layer>
                      </staff>
-                     <slur xml:id="sn4u7n3" startid="#nsp33rm" endid="#n516n9x" curvedir="above" />
+                     <tie xml:id="sn4u7n3" startid="#nsp33rm" endid="#n516n9x"  />
                   </measure>
                   <measure xml:id="m14tzwy0" n="4">
                      <staff xml:id="s1g4nino" n="1">
