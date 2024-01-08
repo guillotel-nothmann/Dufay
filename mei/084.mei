@@ -579,8 +579,8 @@
                            <note xml:id="nvcx3ow" dur.ppq="8" dur="4" oct="4" pname="e" stem.dir="down" />
                            <beam xml:id="b1xnrqe7">
                               <note xml:id="nn1wqgz" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="down" />
-                              <note xml:id="n7lfr8d" dur.ppq="4" dur="8" oct="4" pname="d" stem.dir="down" />
-                              <note xml:id="nzsa18r" dur.ppq="4" dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note xml:id="n7lfr8d" dots="1" dur.ppq="6" dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note xml:id="nzsa18r" dur.ppq="2" dur="16" oct="4" pname="c" stem.dir="down" />
                            </beam>
                            <note xml:id="nb9q4p4" dur.ppq="8" dur="4" oct="4" pname="c" stem.dir="down" />
                            <note xml:id="ngs63tq" dur.ppq="4" dur="8" oct="3" pname="b" stem.dir="down" >
