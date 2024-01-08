@@ -827,8 +827,8 @@
                      </staff>
                      <staff xml:id="s1xgxqd3" n="2">
                         <layer xml:id="l18witw6" n="1">
-                           <note xml:id="necoiyi" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up" />
-                           <note xml:id="n15imiuj" dur.ppq="4" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="necoiyi" dots="1" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up" />
+                           <rest xml:id="r10ood3nl" dots="1" dur.ppq="2" dur="4" />
                         </layer>
                      </staff>
                      <staff xml:id="sd1rvh1" n="3">
