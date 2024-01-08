@@ -243,7 +243,9 @@
                      <staff xml:id="s341ict" n="2">
                         <layer xml:id="l1hre30m" n="1">
                            <note xml:id="nsby7b9" dur.ppq="4" dur="4" oct="3" pname="g" stem.dir="up" />
-                           <note xml:id="ndi0cgn" dots="1" dur.ppq="6" dur="4" oct="3" pname="f" stem.dir="up" />
+                           <note xml:id="ndi0cgn" dots="1" dur.ppq="6" dur="4" oct="3" pname="f" stem.dir="up" >
+                           	<accid accid="s" func="edit"/>
+                           </note>
                            <note xml:id="n1gwwh0c" dur.ppq="2" dur="8" oct="3" pname="e" stem.dir="up" />
                            <note xml:id="n1xa5i7u" dur.ppq="4" dur="4" oct="3" pname="g" stem.dir="up" />
                            <rest xml:id="rabcglg" dur.ppq="4" dur="4" />

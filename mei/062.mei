@@ -250,7 +250,9 @@
                            <note xml:id="n1pdabqt" dots="1" dur.ppq="6" dur="4" oct="4" pname="a" stem.dir="up" />
                            <note xml:id="n96zxys" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up" />
                            <note xml:id="n2n5zg0" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up" />
-                           <note xml:id="nneo75w" dots="1" dur.ppq="6" dur="4" oct="4" pname="f" stem.dir="up" />
+                           <note xml:id="nneo75w" dots="1" dur.ppq="6" dur="4" oct="4" pname="f" stem.dir="up" >
+                           	<accid accid="s" func="edit"/>
+                           </note>
                            <note xml:id="ne4h6h7" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up" />
                         </layer>
                      </staff>
@@ -375,7 +377,6 @@
                            <note xml:id="nzu2kil" dur.ppq="8" dur="2" oct="4" pname="c" stem.dir="down" />
                            <beam xml:id="b1wika0g">
                               <note xml:id="n84fvu5" dur.ppq="2" dur="8" oct="4" pname="c" stem.dir="down">
-                                 <artic xml:id="ad1fhf" artic="stacciss" />
                               </note>
                               <note xml:id="ng3r1yz" dur.ppq="2" dur="8" oct="3" pname="b" stem.dir="down" />
                            </beam>
@@ -694,8 +695,12 @@
                            </beam>
                            <note xml:id="n1pk20fo" dots="1" dur.ppq="6" dur="4" oct="4" pname="g" stem.dir="up" />
                            <beam xml:id="b1gajw5x">
-                              <note xml:id="n1do7i0z" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up" />
-                              <note xml:id="nx5aebe" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up" />
+                              <note xml:id="n1do7i0z" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up" >
+                           	<accid accid="s" func="edit"/>
+                           </note>
+                              <note xml:id="nx5aebe" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up" >
+                           	<accid accid="s" func="edit"/>
+                           </note>
                               <note xml:id="nbo7i01" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up" />
                            </beam>
                         </layer>

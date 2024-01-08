@@ -737,7 +737,6 @@
                            <note xml:id="note-L118F5" type="placed" dur="2" oct="3" pname="g" stem.dir="up" accid.ges="n"/>
                            <note xml:id="note-L119F5" type="placed" dur="2" oct="3" pname="a" stem.dir="up" accid.ges="n"/>
                            <note xml:id="note-L120F5" dur="1" oct="3" pname="f">
-                              <accid xml:id="accid-L120F5" accid="s" func="edit"/>
                               </note>
                         </layer>
                      </staff>

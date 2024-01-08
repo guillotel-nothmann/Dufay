@@ -399,7 +399,9 @@
                            <note xml:id="note-L51F5" type="placed" dur="2" oct="3" pname="g" stem.dir="up" accid.ges="n"/>
                            <note xml:id="note-L52F5" type="placed" dur="2" oct="3" pname="g" stem.dir="up" accid.ges="n">
                               </note>
-                           <note xml:id="note-L53F5" type="placed" dur="2" oct="3" pname="f" stem.dir="up" accid.ges="n"/>
+                           <note xml:id="note-L53F5" type="placed" dur="2" oct="3" pname="f" stem.dir="up" accid.ges="n">
+                                 <accid accid="s" func="edit"/>
+                              </note>
                         </layer>
                      </staff>
                      <staff xml:id="staff-L49F1N1" n="3">
@@ -646,6 +648,7 @@
                      <staff xml:id="staff-L89F5N1" n="2">
                         <layer xml:id="layer-L89F5N1" n="1">
                            <note xml:id="note-L90F5" dur="breve" oct="3" pname="b" accid.ges="n">
+                                 <accid accid="n" func="edit"/>
                               </note>
                            <note xml:id="note-L92F5" dur="1" oct="3" pname="a" accid.ges="n"/>
                         </layer>
@@ -673,7 +676,9 @@
                               </note>
                            <note xml:id="note-L96F5" type="placed" dur="2" oct="3" pname="a" stem.dir="up" accid.ges="n"/>
                            <note xml:id="note-L97F5" type="placed" dur="2" oct="3" pname="g" stem.dir="up" accid.ges="n"/>
-                           <note xml:id="note-L98F5" type="placed" dur="2" oct="3" pname="f" stem.dir="up" accid.ges="n"/>
+                           <note xml:id="note-L98F5" type="placed" dur="2" oct="3" pname="f" stem.dir="up" accid.ges="n">
+                                 <accid accid="s" func="edit"/>
+                              </note>
                            <note xml:id="note-L99F5" type="placed" dur="2" oct="3" pname="g" stem.dir="up" accid.ges="n"/>
                            <note xml:id="note-L100F5" type="placed" dur="2" oct="3" pname="e" stem.dir="up" accid.ges="n"/>
                         </layer>

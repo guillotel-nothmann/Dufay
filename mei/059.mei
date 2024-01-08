@@ -1005,8 +1005,9 @@
                         <layer xml:id="layer-L160F1N1" n="1">
                            <note xml:id="note-L161F1" dur="breve" oct="3" pname="g" accid.ges="n">
                               </note>
-                           <note xml:id="note-L163F1" dur="1" oct="3" pname="b" accid.ges="f">
-                              </note>
+                           <note xml:id="note-L163F1" dur="1" oct="3" pname="b" >
+                           	<accid accid="n" func="edit"/>
+                           </note>
                         </layer>
                      </staff>
                   </measure>
@@ -1015,8 +1016,9 @@
                         <layer xml:id="layer-L164F6N1" n="1">
                            <note xml:id="note-L165F6" dur="breve" oct="4" pname="g" accid.ges="n">
                               </note>
-                           <note xml:id="note-L167F6" dur="1" oct="4" pname="b" accid.ges="f">
-                              </note>
+                           <note xml:id="note-L167F6" dur="1" oct="4" pname="b" >
+                           	<accid accid="n" func="edit"/>
+                           </note>
                         </layer>
                      </staff>
                      <staff xml:id="staff-L164F5N1" n="2">
@@ -1031,7 +1033,6 @@
                            <note xml:id="note-L165F1" dur="1" oct="4" pname="c" accid.ges="n">
                               </note>
                            <note xml:id="note-L166F1" dur="1" oct="4" pname="e">
-                              <accid xml:id="accid-L166F1" accid="f" func="edit"/>
                            </note>
                            <note xml:id="note-L167F1" dur="1" oct="4" pname="d" accid.ges="n">
                               </note>
