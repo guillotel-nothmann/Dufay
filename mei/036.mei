@@ -230,7 +230,7 @@
                            <note xml:id="n1b36xbn" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" >
                                 <accid accid="s" func="edit"/>
                            </note>
-                           <note xml:id="ntkmp1z" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" />
+                           <rest xml:id="ntkgmp1z" dur.ppq="2" dur="4"  />
                            <note xml:id="nv3j37j" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
                            <note xml:id="n6pgw7p" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
                            <note xml:id="nydmhvj" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
