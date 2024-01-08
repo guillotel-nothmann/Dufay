@@ -219,7 +219,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m1oavo4o" right="dbl" n="6">
+                  <measure xml:id="m1oavo4o" n="6">
                      <staff xml:id="sa5for6" n="1">
                         <layer xml:id="l16rnnpa" n="1">
                            <note xml:id="n1p92x1b" dots="1" dur.ppq="36" dur="2" oct="5" pname="c" stem.dir="down" />
@@ -1301,6 +1301,7 @@
                            <note xml:id="nr4st6w" dur.ppq="12" dur="4" oct="4" pname="b" stem.dir="down" >
                               <accid accid="f" func="edit"></accid>
                            </note>
+                           <note xml:id="nh4cf10a" dur.ppq="12" dur="4" oct="4" pname="a" stem.dir="up" />
                            <beam xml:id="brh7aje">
                               <note xml:id="n1h0awpb" dur.ppq="6" dur="8" oct="4" pname="g" stem.dir="up" />
                               <note xml:id="nayhwjb" dur.ppq="6" dur="8" oct="4" pname="f" stem.dir="up" />
