@@ -235,7 +235,7 @@
                         <layer xml:id="l1x97h2l" n="1">
                            <note xml:id="n8bsycw" dur.ppq="4" dur="4" oct="4" pname="d" stem.dir="down" />
                            <note xml:id="n17mfo3g" dots="1" dur.ppq="6" dur="4" oct="4" pname="c" stem.dir="down" />
-                           <note xml:id="n1tvqza4" dur.ppq="2" dur="8" oct="3" pname="b" stem.dir="down" >
+                           <note xml:id="n1tvqza4" dur.ppq="2" dur="8" oct="3" pname="b" stem.dir="down" accid.ges="n" >
                            	<accid accid="n" func="edit"></accid>
                            </note>
                            <note xml:id="njkir03" dots="1" dur.ppq="12" dur="2" oct="4" pname="d" stem.dir="down" />
