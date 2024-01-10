@@ -136,7 +136,7 @@
                      <staff xml:id="s2tw7xt" n="1">
                         <layer xml:id="l1ehqccv" n="1">
                            <note xml:id="n1xmn2gl" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="up" />
-                           <note xml:id="n1xhday3" dur.ppq="128" dur="8" oct="4" pname="e" color="#000000" stem.dir="up" />
+                           <note xml:id="n1xhday3" dur.ppq="128" dur="8" oct="4" pname="e" color="#000000" stem.dir="up"><accid accid="f" func="edit"/></note>
                            <note xml:id="n1dhk6pa" dur.ppq="256" dur="4" oct="4" pname="c" color="#000000" stem.dir="up" />
                            <note xml:id="n1h5pmi3" dur.ppq="128" dur="8" oct="4" pname="c" color="#000000" stem.dir="up" />
                            <note xml:id="n5anhcp" dur.ppq="256" dur="4" oct="3" pname="b" color="#000000" stem.dir="up" />
